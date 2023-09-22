@@ -1,9 +1,9 @@
 # Pune-Metro-
 ![image](https://github.com/Kshitijvajpayee/Pune-Metro-/assets/72120639/d694a32e-79b0-4af5-bb76-ff498f9672f5)
 
+A simple C++ program using Graph and Priority Queue data structures and Dijkstra, DFS, BFS, etc algorithms to display the shortest distance/path in Pune Metro.
 
-
-The "Optimized Pune Metro Route Finder" is a sophisticated C++ program designed to assist commuters in the Pune Metro system. This project utilizes Data Structures and Algorithms (DSA) to efficiently calculate the fare and shortest metro route between a source station and a destination station within the Pune Metro network.
+The "Pune Metro Route Finder" is a sophisticated C++ program designed to assist commuters in the Pune Metro system. This project utilizes Data Structures and Algorithms (DSA) to efficiently calculate the fare and shortest metro route between a source station and a destination station within the Pune Metro network.
 
 Key Features:
 
